@@ -6,7 +6,10 @@ I'm always looking for opportunities to collaborate on projects, improve my skil
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://www.iconfinder.com/icons/317750/linkedin_icon)](https://linkedin.com/in/ritikdoijod)
+[![GitHub](https://img.icons8.com/ios-filled/50/000000/github.png)](https://github.com/ritikdoijod)
+[![LinkedIn](https://img.icons8.com/ios-filled/50/000000/linkedin.png)](https://linkedin.com/in/ritikdoijod)
+[![Portfolio](https://img.icons8.com/ios-filled/50/000000/portfolio.png)](https://ritikdoijod.netlify.app)
+
 
 ## 🔧 Technical Skills
 
