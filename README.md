@@ -1,15 +1,14 @@
 # 👋 Hi there, I'm Ritik
 
-I am a Full Stack Developer with a passion for DevOps and Cloud technologies. I specialize in backend development with **Python** and **Node.js**, frontend development with **React**, and building scalable applications. I’m also skilled in **CI/CD pipelines**, **Docker**, **Kubernetes**, and managing **cloud infrastructure** using **AWS** and **Azure**. 
+I am a Full Stack Developer with a passion for DevOps and Cloud technologies. I specialize in backend development with **Python** and **Node.js**, frontend development with **React**, and building scalable applications. I’m also skilled in **CI/CD pipelines**, **Docker**, **Kubernetes**, and managing **cloud infrastructure** using **AWS** and **Azure**.
 
 I'm always looking for opportunities to collaborate on projects, improve my skills, and contribute to the developer community.
 
 ## 📫 Connect with Me
 
-[![GitHub](https://img.icons8.com/ios-filled/50/000000/github.png)](https://github.com/ritikdoijod)
-[![LinkedIn](https://img.icons8.com/ios-filled/50/000000/linkedin.png)](https://linkedin.com/in/ritikdoijod)
-[![Portfolio](https://img.icons8.com/ios-filled/50/000000/portfolio.png)](https://ritikdoijod.netlify.app)
-
+[![GitHub](./assets/icons/github.svg)](https://github.com/ritikdoijod)
+[![LinkedIn](./assets/icons/linkedin-in.svg)](https://linkedin.com/in/ritikdoijod)
+[![Portfolio](./assets/icons/globe.svg)](https://ritikdoijod.netlify.app)
 
 ## 🔧 Technical Skills
 
@@ -26,18 +25,20 @@ I'm always looking for opportunities to collaborate on projects, improve my skil
 ## 🚀 Featured Projects
 
 ### Flask API
+
 A RESTful API built with Flask and PostgreSQL, implementing best practices for backend development and database management. Deployed on AWS using containerization and CI/CD pipelines.
 
 ### React Web App
+
 A modern web application built using React.js, featuring responsive design and interactive user interfaces. Implemented with cloud-native architecture and automated deployment workflows.
 
 ### Dockerized Microservices
-A demonstration of microservices architecture using Docker and Kubernetes, showcasing scalable and maintainable system design. Includes infrastructure as code and automated cloud deployment.
 
+A demonstration of microservices architecture using Docker and Kubernetes, showcasing scalable and maintainable system design. Includes infrastructure as code and automated cloud deployment.
 
 ## 📧 Contact
 
-Feel free to reach out to me at myname@gmail.com
+Feel free to reach out to me at <myname@gmail.com>
 
 ## 📊 GitHub Stats
 
@@ -46,5 +47,3 @@ Feel free to reach out to me at myname@gmail.com
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
 
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
-
-
