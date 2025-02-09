@@ -1,6 +1,12 @@
-# 👋 Hi there! I'm a Backend Developer
+# 👋 Hi there, I'm Ritik
 
-I'm a software developer passionate about building robust backend solutions. With a strong focus on Python and Node.js, I love contributing to open-source projects and being an active member of the developer community. I also have extensive experience in DevOps practices and cloud technologies.
+I am a Full Stack Developer with a passion for DevOps and Cloud technologies. I specialize in backend development with **Python** and **Node.js**, frontend development with **React**, and building scalable applications. I’m also skilled in **CI/CD pipelines**, **Docker**, **Kubernetes**, and managing **cloud infrastructure** using **AWS** and **Azure**. 
+
+I'm always looking for opportunities to collaborate on projects, improve my skills, and contribute to the developer community.
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://www.iconfinder.com/icons/317750/linkedin_icon)](https://linkedin.com/in/ritikdoijod)
 
 ## 🔧 Technical Skills
 
@@ -25,11 +31,6 @@ A modern web application built using React.js, featuring responsive design and i
 ### Dockerized Microservices
 A demonstration of microservices architecture using Docker and Kubernetes, showcasing scalable and maintainable system design. Includes infrastructure as code and automated cloud deployment.
 
-## 📫 Connect with Me
-
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Blog](https://img.shields.io/badge/Blog-%23FF4088.svg?style=for-the-badge&logo=hugo&logoColor=white)](https://yourblog.com)
 
 ## 📧 Contact
 
