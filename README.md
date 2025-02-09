@@ -24,6 +24,10 @@ I am a Full Stack Developer with a passion for DevOps and Cloud technologies. I 
     <span style="color: white; font-weight: 500; vertical-align: middle;">Portfolio</span>
   </a>
 </div>
+=======
+[![GitHub](./assets/icons/github.svg)](https://github.com/ritikdoijod)
+[](https://linkedin.com/in/ritikdoijod)
+[![Portfolio](./assets/icons/globe.svg)](https://ritikdoijod.netlify.app)
 
 ## 🔧 Technical Skills
 
