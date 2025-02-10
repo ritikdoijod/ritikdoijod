@@ -1,94 +1,22 @@
-# <div align="center">👋 Hi there, I'm Ritik</div>
+# 💫 About Me
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4A90E2&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;DevOps+Engineer;Cloud+Enthusiast" alt="Typing SVG" />
-</div>
+👋 Hi there, I'm Ritik<br><br>I am a Full Stack Developer with a passion for DevOps and Cloud technologies. I specialize in backend development with Python and Node.js, frontend development with React, and building scalable applications. I'm also skilled in CI/CD pipelines, Docker, Kubernetes, and managing cloud infrastructure using AWS and Azure.
 
-<div style="text-align: justify; padding: 20px;">
-I am a Full Stack Developer with a passion for DevOps and Cloud technologies. I specialize in backend development with <strong>Python</strong> and <strong>Node.js</strong>, frontend development with <strong>React</strong>, and building scalable applications. I'm also skilled in <strong>CI/CD pipelines</strong>, <strong>Docker</strong>, <strong>Kubernetes</strong>, and managing <strong>cloud infrastructure</strong> using <strong>AWS</strong> and <strong>Azure</strong>.
-</div>
+## 🌐 Socials
 
-## 📫 Connect with Me
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ritikdoijod) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ritikdoijod) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ritikdoijod) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ritikdoijod@gmail.com)
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <a href="https://github.com/ritikdoijod" target="_blank" style="text-decoration: none; display: inline-block; background-image: url(https://placehold.co/100x36/24292e/24292e.png); padding: 8px 16px; border-radius: 8px;">
-    <img src="./assets/icons/github.svg" alt="GitHub" width="24" height="24" style="vertical-align: middle; margin-right: 8px"/>
-    <span style="color: white; font-weight: 500; vertical-align: middle;">GitHub</span>
-  </a>
-  <a href="https://linkedin.com/in/ritikdoijod" target="_blank" style="text-decoration: none; display: inline-block; background: #0077b5; padding: 8px 16px; border-radius: 8px;">
-    <img src="./assets/icons/linkedin-in.svg" alt="LinkedIn" width="24" height="24" style="vertical-align: middle; margin-right: 8px"/>
-    <span style="color: white; font-weight: 500; vertical-align: middle;">LinkedIn</span>
-  </a>
-  <a href="https://ritikdoijod.netlify.app" target="_blank" style="text-decoration: none; display: inline-block; background: #4a90e2; padding: 8px 16px; border-radius: 8px;">
-    <img src="./assets/icons/globe.svg" alt="Portfolio" width="24" height="24" style="vertical-align: middle; margin-right: 8px"/>
-    <span style="color: white; font-weight: 500; vertical-align: middle;">Portfolio</span>
-  </a>
-</div>
+# 💻 Tech Stack
 
-## 🔧 Technical Skills
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; padding: 20px;">
-  <div style="background: #ffffff10; padding: 15px; border-radius: 8px; border: 1px solid #30363d;">
-    <h3>🚀 Languages</h3>
-    <ul>
-      <li>Python</li>
-      <li>JavaScript/Node.js</li>
-    </ul>
-  </div>
-  <div style="background: #ffffff10; padding: 15px; border-radius: 8px; border: 1px solid #30363d;">
-    <h3>🐳 Containerization</h3>
-    <ul>
-      <li>Docker</li>
-      <li>Kubernetes</li>
-    </ul>
-  </div>
-  <div style="background: #ffffff10; padding: 15px; border-radius: 8px; border: 1px solid #30363d;">
-    <h3>💾 Databases</h3>
-    <ul>
-      <li>PostgreSQL</li>
-    </ul>
-  </div>
-  <div style="background: #ffffff10; padding: 15px; border-radius: 8px; border: 1px solid #30363d;">
-    <h3>☁️ Cloud Platforms</h3>
-    <ul>
-      <li>AWS</li>
-      <li>GCP</li>
-      <li>Azure</li>
-    </ul>
-  </div>
-</div>
+# 📊 GitHub Stats
 
-## 🚀 Featured Projects
+![](https://github-readme-stats.vercel.app/api?username=ritikdoijod&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ritikdoijod&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ritikdoijod&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; padding: 20px;">
-  <div style="background: #ffffff10; padding: 20px; border-radius: 8px; border: 1px solid #30363d;">
-    <h3>🌐 Flask API</h3>
-    <p>A RESTful API built with Flask and PostgreSQL, implementing best practices for backend development and database management. Deployed on AWS using containerization and CI/CD pipelines.</p>
-  </div>
-  <div style="background: #ffffff10; padding: 20px; border-radius: 8px; border: 1px solid #30363d;">
-    <h3>⚛️ React Web App</h3>
-    <p>A modern web application built using React.js, featuring responsive design and interactive user interfaces. Implemented with cloud-native architecture and automated deployment workflows.</p>
-  </div>
-  <div style="background: #ffffff10; padding: 20px; border-radius: 8px; border: 1px solid #30363d;">
-    <h3>🔄 Dockerized Microservices</h3>
-    <p>A demonstration of microservices architecture using Docker and Kubernetes, showcasing scalable and maintainable system design. Includes infrastructure as code and automated cloud deployment.</p>
-  </div>
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=ritikdoijod&icon=2&color=0)](https://visitcount.itsvg.in)
 
-## 📧 Contact
-
-<div align="center" style="padding: 20px;">
-  <p>Feel free to reach out to me at <a href="mailto:myname@gmail.com" style="color: #4a90e2; text-decoration: none;">myname@gmail.com</a></p>
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; padding: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ritikdoijod&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritikdoijod&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritikdoijod&theme=tokyonight" alt="GitHub Contributions" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ritikdoijod&color=blue" alt="Profile Views" />
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
