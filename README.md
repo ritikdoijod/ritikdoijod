@@ -10,7 +10,7 @@ I am a Full Stack Developer with a passion for DevOps and Cloud technologies. I 
 
 ## 📫 Connect with Me
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+<div align="center">
   <a href="https://github.com/ritikdoijod" target="_blank" style="text-decoration: none; display: inline-block; background: #24292e; padding: 8px 16px; border-radius: 8px;">
     <img src="./assets/icons/github.svg" alt="GitHub" width="24" height="24" style="vertical-align: middle; margin-right: 8px"/>
     <span style="color: white; font-weight: 500; vertical-align: middle;">GitHub</span>
