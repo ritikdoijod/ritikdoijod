@@ -6,10 +6,15 @@
 
 Feel free to reach out if you want a to build something together or just want to say hi 👋.
 
-<ritikdoijod@gmail.com>
+[![LinkedIn Icon](./assets/icons/linkedin.svg)](https://linkedin.com/in/ritikdoijod) &nbsp;&nbsp;
+[![GitHub](./assets/icons/github.svg)](https://github.com/ritikdoijod)
 
-[![Portfolio](./assets/icons/globe.svg)](https://ritikdoijod.netlify.app/)
-[![LinkedIn Icon](./assets/icons/linkedin.svg)](https://linkedin.com/in/ritikdoijod)
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <a href="https://ritikdoijod.netlify.app" target="_blank" style="text-decoration: none; display: inline-block; background: #4a90e2; padding: 8px 16px; border-radius: 8px;">
+    <img src="./assets/icons/globe.svg" alt="Portfolio" width="24" height="24" style="vertical-align: middle; margin-right: 8px"/>
+    <span style="color: white; font-weight: 500; vertical-align: middle;">Portfolio</span>
+  </a>
+</div>
 
 # 💻 Tech Stack
 
