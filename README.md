@@ -2,9 +2,14 @@
 
 👋 Hi there, I'm Ritik<br><br>I am a Full Stack Developer with a passion for DevOps and Cloud technologies. I specialize in backend development with Python and Node.js, frontend development with React, and building scalable applications. I'm also skilled in CI/CD pipelines, Docker, Kubernetes, and managing cloud infrastructure using AWS and Azure.
 
-## 🌐 Socials
+## Contact
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ritikdoijod) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ritikdoijod) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ritikdoijod) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ritikdoijod@gmail.com)
+Feel free to reach out if you want a to build something together or just want to say hi 👋.
+
+<ritikdoijod@gmail.com>
+
+[![Portfolio](./assets/icons/globe.svg)](https://ritikdoijod.netlify.app/)
+[![LinkedIn Icon](./assets/icons/linkedin.svg)](https://linkedin.com/in/ritikdoijod)
 
 # 💻 Tech Stack
 
