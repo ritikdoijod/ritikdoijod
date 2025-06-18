@@ -6,4 +6,4 @@ I am a Full Stack Developer with a passion for DevOps and Cloud technologies. I 
 #### Connect with me
 Feel free to reach out if you want a to build something together or just want to say hi 👋.
 
-[LinkedIn](https://linkedin.com/in/ritikdoijod) | [GitHub](https://github.com/ritikdoijod) | [Email](ritikdoijod@gmail.com)
+[LinkedIn](https://linkedin.com/in/ritikdoijod) | [Email](ritikdoijod@gmail.com)
